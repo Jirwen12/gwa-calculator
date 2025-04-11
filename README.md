@@ -50,9 +50,9 @@ You may Reset at any time to clear the fields.
 👤 Author
 Jirwen Palaje
 
-GitHub: @jirwenpalaje
+GitHub: @Jirwen12
 
-Facebook: fb.com/jirwenpalaje
+Facebook: https://www.facebook.com/jirwen.palaje.3
 
 Email: palajejirwen@gmail.com 
 
