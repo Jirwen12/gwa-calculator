@@ -16,13 +16,14 @@ An elegant and user-friendly Android application built with Kotlin that helps st
 
 📷 Screenshots
 
-Welcome Screen                                         GWA Calculation
+Welcome Screen                                         
 
-<img src="start.png" alt="Main Screen" width="250"/>  <img src="image.png" alt="GWA Computed" width="250"/>
-
-
+<img src="start.png" alt="Main Screen" width="250"/>  
 
 
+GWA Calculation
+
+<img src="image.png" alt="GWA Computed" width="250"/>
 
 🛠️ Built With
 Kotlin
