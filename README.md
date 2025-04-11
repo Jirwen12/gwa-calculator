@@ -15,10 +15,13 @@ An elegant and user-friendly Android application built with Kotlin that helps st
 🖼️ Welcome screen with animated logo and circular Get Started button
 
 📷 Screenshots
+
 Welcome Screen
+
 <img src="start.png" alt="Main Screen" width="250"/>  
 
 GWA Calculation
+
 <img src="image.png" alt="GWA Computed" width="250"/>
 
 🛠️ Built With
