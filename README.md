@@ -1,37 +1,55 @@
-📱 GWA Calculator App
-A sleek and intuitive Android application designed to help students calculate their General Weighted Average (GWA) efficiently. The app features a modern glass UI, dark theme, and smooth interactions — perfect for academic tracking on the go.
+📊 GWA Calculator
+An elegant and user-friendly Android application built with Kotlin that helps students compute their General Weighted Average (GWA) efficiently. Designed with a modern UI, this app features a sleek interface, intuitive controls, and clean design for an easy academic utility experience.
 
-✨ Features
-✅ Add subjects with grade and unit inputs
+🚀 Features
+✨ Modern UI with glassmorphism style
 
-🔢 Instantly compute your GWA
+➕ Add subjects with grade and units
 
-➕ Easily manage multiple entries
+🔢 Instantly compute GWA
 
-♻️ Reset inputs with one tap
+♻️ Reset fields and results easily
 
-💠 Visually modern glass-like UI design
+📱 Clean and responsive layout
 
-⚙️ Simple and easy to use — no clutter!
+🖼️ Welcome screen with animated logo and circular Get Started button
 
-🛠 Built With
+📷 Screenshots
+Welcome Screen	GWA Calculation
+start.png
+
+🛠️ Built With
 Kotlin
 
 Android Studio
 
-XML UI design
+XML for Layouts
 
-ConstraintLayout, ScrollView, Vector Drawables
+ConstraintLayout & ScrollView
 
-🧠 Ideal For
-Students tracking their grades
+Custom drawables and modern UI elements
 
-Teachers assisting students
+🧠 How It Works
+Launch the app – you'll land on the Welcome screen.
 
-Anyone who needs a fast, offline grade calculator
+Tap Get Started to proceed to the GWA Calculator.
 
+Input your subject's grade and units, then tap Add Subject.
 
-👨‍💻 Developer
+Repeat for multiple subjects, then tap Compute GWA.
+
+You may Reset at any time to clear the fields.
+
+👤 Author
 Jirwen Palaje
-© 2025
+
+GitHub: @jirwenpalaje
+
+Facebook: fb.com/jirwenpalaje
+
+Email: palajejirwen@gmail.com 
+
+
+
+
 
